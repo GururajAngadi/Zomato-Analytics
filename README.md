@@ -107,7 +107,7 @@ SQL scripts include queries for:
 - Cost distribution  
 - Most popular restaurants  
 
-📌 <a href="">Dataset</a>
+📌 <a href="https://github.com/GururajAngadi/Zomato-Analytics/blob/main/Zomato%20Restaurant%20Analysis.sql">Dataset</a>
 
 ---
 
