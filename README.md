@@ -28,9 +28,9 @@
 - Customer Preferences (budget vs premium dining)  
 
 📌 Dashboard Interactions:  
-- Tableau: [View Dashboard](#)  
-- Power BI: [View Dashboard](#)  
-- Excel: [View Dashboard](#)  
+- Tableau: Dashboard Interaction Excel <a href=""> View Dashboard </a> 
+- Power BI: Dashboard Interaction Excel <a href=""> View Dashboard </a> 
+- Excel: Dashboard Interaction Excel <a href=""> View Dashboard </a> 
 
 ---
 
