@@ -63,4 +63,54 @@
 ---
 
 ## 🔑 Insights
-- **Top Cuisines** → Identified cuisines with highest popularity and
+- **Top Cuisines** → Identified cuisines with highest popularity and customer satisfaction.  
+- **Restaurant Ratings** → High-rated restaurants often had mid-range pricing.  
+- **Customer Preferences** → Location-based demand revealed unique dining patterns.  
+- **Cost Analysis** → Balanced pricing + high ratings delivered the best results.  
+
+---
+
+## 🗂 SQL Queries
+SQL scripts include queries for:  
+- Top cuisines  
+- Average rating per city  
+- Cost distribution  
+- Most popular restaurants  
+
+📌 <a href="## 🔑 Insights
+- **Top Cuisines** → Identified cuisines with highest popularity and customer satisfaction.  
+- **Restaurant Ratings** → High-rated restaurants often had mid-range pricing.  
+- **Customer Preferences** → Location-based demand revealed unique dining patterns.  
+- **Cost Analysis** → Balanced pricing + high ratings delivered the best results.  
+
+---
+
+## 🗂 SQL Queries
+SQL scripts include queries for:  
+- Top cuisines  
+- Average rating per city  
+- Cost distribution  
+- Most popular restaurants  
+
+📌 <a href="## 🔑 Insights
+- **Top Cuisines** → Identified cuisines with highest popularity and customer satisfaction.  
+- **Restaurant Ratings** → High-rated restaurants often had mid-range pricing.  
+- **Customer Preferences** → Location-based demand revealed unique dining patterns.  
+- **Cost Analysis** → Balanced pricing + high ratings delivered the best results.  
+
+---
+
+## 🗂 SQL Queries
+SQL scripts include queries for:  
+- Top cuisines  
+- Average rating per city  
+- Cost distribution  
+- Most popular restaurants  
+
+📌 <a href="">Dataset</a>
+
+---
+
+## ✅ Final Conclusion
+This Zomato analytics project demonstrates how dashboards transform restaurant data into actionable insights. It enables restaurants to enhance service quality, helps customers make informed choices, and supports data-driven strategies using Tableau, Power BI, and Excel.  
+
