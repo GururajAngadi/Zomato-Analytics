@@ -54,8 +54,9 @@
 
 ## 📈 Dashboards
 - **Excel Dashboard** <img width="1838" height="644" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/58fbcb3a-832d-4136-a03a-4a486cad6488" />
-- **Power BI Dashboard**  
-- **Tableau Dashboard** ![Tableau](your-link-here)  
+- **Power BI Dashboard** <img width="1329" height="743" alt="PBI Dashboard" src="https://github.com/user-attachments/assets/581a0024-0e12-468e-a41c-19430da134bc" />
+- **Tableau Dashboard** <img width="1234" height="632" alt="Tabalue Daashboard" src="https://github.com/user-attachments/assets/24747c8a-7766-46bc-a57da49762e87e7" />
+  
 
 ---
 
